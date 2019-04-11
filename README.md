@@ -29,4 +29,4 @@ Only
 
 
 
-```Made by discordbots.org```
+
