@@ -1,3 +1,6 @@
+
+```Made By bots.ondiscord.xyz```
+
 # Best Bot Of the World
 
 [Invite now](https://discordapp.com/oauth2/authorize?client_id=561466718036426762&scope=bot&permissions=0)
@@ -14,6 +17,7 @@ Only
 |------:|-----------:|
 |1.|help|utils|
 |2.|ping|utils|
+
 |3.|stats|utils|
 
 > And get a some commands if you invite Wijayanto Bots😋
@@ -22,3 +26,7 @@ Only
 
 
 ---------------------
+
+
+
+```Made by discordbots.org```
