@@ -1,0 +1,21 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "ListData",
+  "env": {
+    "process.env.TOKEN": "TOKEN",
+    "process.env.YT_API": "YT_API"
+  },
+  "formation": {
+  },
+  "name": "wijayantobots",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
