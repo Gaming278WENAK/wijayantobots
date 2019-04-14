@@ -9,8 +9,8 @@
   ],
   "description": "ListData",
   "env": {
-    "process.env.TOKEN": "TOKEN",
-    "process.env.YT_API": "YT_API"
+    "TOKEN": "process.env.TOKEN",
+    "YT_API": "process.env.YT_API"
   },
   "formation": {
   },
