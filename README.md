@@ -27,7 +27,6 @@ Only
 
 ---------------------
 
-<iframe src="https://travis-ci.org/Gaming278WENAK/wijayantobots#" height="50%" width="50%">
-  </iframe>
-
+[CI STATUS](https://travis-ci.org/Gaming278WENAK/wijayantobots#)
+[![CI STATUS](https://travis-ci.org/Gaming278WENAK/wijayantobots#)
 
